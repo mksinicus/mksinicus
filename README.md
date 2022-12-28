@@ -1,4 +1,17 @@
-### Hi there 👋
+### Greetings 👋 Salvēte
+
+- *mksinicus* stands for Marcus Sinicus Commōtus.
+- I am a undergraduate student of linuguistics. I favor the generative school,
+  but currently I am working on projects of linguistic typology.
+- I am learning Rust in order to create modern, reliable utilities. I used to
+  write C, but haven't practiced it for years. I use Python only for school 
+  projects. I use GNU/R for statistic computing and visualization. I am a TeX user.
+- OS: Kubuntu, planning to switch to Pop!_OS
+- Shell: Nushell
+- Modal Editor: Helix
+- IDE: VS Codium
+- Pronouns: Whatever you like
+- PGP fingerprint: `AB7F 94A9 EAF8 8C3C E971  3088 6300 63DC AE21 BF88`
 
 <!--
 **mksinicus/mksinicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
