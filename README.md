@@ -1,6 +1,7 @@
 ### Greetings 👋 Salvēte
 
 - *mksinicus* stands for Marcus Sinicus Commōtus.
+- Icon's a *voiceless lateral fricative* symbol in IPA, in Noto Sans Mono.
 - I am a undergraduate student of linuguistics. I favor the generative school,
   but currently I am working on projects of linguistic typology.
 - I am learning Rust in order to create modern, reliable utilities. I used to
@@ -10,7 +11,8 @@
 - Shell: Nushell
 - Modal Editor: Helix
 - IDE: VS Codium
-- Pronouns: Whatever you like
+- Pronouns: He/him or whatever you'd like to use (I don't care whatsoever;
+  gender is but a linguistic concern)
 - PGP fingerprint: `AB7F 94A9 EAF8 8C3C E971  3088 6300 63DC AE21 BF88`
 
 <!--
