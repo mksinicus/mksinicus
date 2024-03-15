@@ -2,7 +2,7 @@
 
 - *mksinicus* stands for Marcus Sinicus Commōtus.
 - Icon's a *voiceless lateral fricative* symbol in IPA, in Noto Sans Mono.
-- I am a undergraduate student of linuguistics. I favor the generative school,
+- I am an undergraduate student in linguistics. I favor the generative school,
   but currently I am working on projects of linguistic typology.
 - I am learning Rust in order to create modern, reliable utilities. I used to
   write C, but haven't practiced it for years. I use Python only for school 
