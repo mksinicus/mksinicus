@@ -1,6 +1,6 @@
 ### Greetings 👋 Salvēte
 
-- *mksinicus* stands for Marcus Sinicus Commōtus.
+- *mksinicus* stands for Marcus Sinicius Commōtus. In full _tria nomina_: M. Sinicius-Aurēlius Commōtus Oculātus.
 - Icon's a *voiceless lateral fricative* symbol in IPA, in Noto Sans Mono.
 - I am an undergraduate student in linguistics. I favor the generative school,
   but currently I am working on projects of linguistic typology.
