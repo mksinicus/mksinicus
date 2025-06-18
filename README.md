@@ -1,18 +1,17 @@
 ### Greetings 👋 Salvēte
 
-- *mksinicus* stands for Marcus Sinicius Commōtus. In full _tria nomina_: M. Aurēlius-Sinicius Commōtus Oculātus.
-- Icon's a *voiceless lateral fricative* symbol in IPA, in Noto Sans Mono.
-- I am an undergraduate student in linguistics. I favor the generative school,
-  but currently I am working on projects of linguistic typology.
+- *mksinicus* stands for Marcus Sinicius Commōtus. In full _tria nomina_: M. Sinicius N.F. Commōtus Oculātus.
+- ~~Icon's a *voiceless lateral fricative* symbol in IPA, in Noto Sans Mono.~~
+- I am a postgraduate student of linguistics. I do generative syntax. I'm fascinated by linguistic typology.
 - I am learning Rust in order to create modern, reliable utilities. I used to
   write C, but haven't practiced it for years. I use Python only for school 
-  projects. I use GNU/R for statistic computing and visualization. I am a TeX user.
-- OS: Kubuntu, planning to switch to Pop!_OS
+  projects. I use GNU/R for statistic computing and visualization. I am a TeX user. I find Typst very promising.
+- OS: Pop!_OS 22.04, will switch to 24.04 once COSMIC gets 1.0
 - Shell: Nushell
 - Modal Editor: Helix
-- IDE: VS Codium
+- IDE (only when I have to): VS Codium
 - Pronouns: He/him or whatever you'd like to use (I don't care whatsoever;
-  gender is but a linguistic concern)
+  grammatical gender is but a linguistic concern)
 - PGP fingerprint: `AB7F 94A9 EAF8 8C3C E971  3088 6300 63DC AE21 BF88`
 
 <!--
